@@ -21,18 +21,25 @@ End the program
 #RegisterNumber:212225230005
 
 a1 = 1
+
 b1 = 3
+
 c1 = 5
 
 a2 = 2
+
 b2 = 5
+
 c2 = -3
 
 D = a1*b2 - a2*b1
+
 Dx = c1*b2 - c2*b1
+
 Dy = a1*c2 - a2*c1
 
 x = Dx / D
+
 y = Dy / D
 
 print(f"[{x:.0f}.  {y:.0f}.]")
