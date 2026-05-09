@@ -15,8 +15,11 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 #Program to find the solution for the given linear equations.
+
 #Developed by: Adam 
+
 #RegisterNumber:212225230005
+
 a1 = 1
 b1 = 3
 c1 = 5
